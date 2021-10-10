@@ -247,6 +247,7 @@ var (
 			"model_family",
 			"model_name",
 			"serial_number",
+			"message",
 		},
 		nil,
 	)
